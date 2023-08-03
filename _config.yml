@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Research", file: "research.md"}
   - {title: 'Education', file: "education.md"}
   - {title: "Blogs", file: "blogs.md"}
-  - {title: "CV", url: "Anshumaan Chauhan Resume.pdf"}
+  - {title: "CV", url: "Anshumaan Chauhan Resume .pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:achauhan@umass.edu"}
