@@ -16,4 +16,4 @@ title: ""
 * [Python for Data Science and Machine Learning Bootcamp (Udemy)](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/c2d359782f39f58137527d6b5718ba41c3a6c62f/_certificates/UC-1d141f79-d4e1-4e6b-954f-cb4c33f8ed4b%20-%20Python%20for%20DS%20and%20ML%20Bootcamp.pdf)
 * [Tensorflow 2.0: Deep Learning and Artificial Intelligence (Udemy)](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/c2d359782f39f58137527d6b5718ba41c3a6c62f/_certificates/UC-ee9e1ac1-458b-480d-9440-d7ce4ed3b21e%20-%20TF%202.0%20Certificate.pdf)
 * [Ultimate AWS Certified Cloud Practitioner - 2023](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/c79092646ce210dbcd140154826396ab6f6a2b30/_certificates/UC-6a37ff5a-64c8-4090-9c6f-8bb65476d227.pdf)
-* [AWS SageMaker Complete Course| PyTorch & Tensorflow NLP-2022]()
+* [AWS SageMaker Complete Course| PyTorch & Tensorflow NLP-2022](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/83b5286e707e4a1ae504255f4ec0c6fdf776c703/_certificates/UC-c0ed7680-a1de-4fe0-baf0-c208f55550e1.pdf)
