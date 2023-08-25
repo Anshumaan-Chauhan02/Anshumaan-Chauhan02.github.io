@@ -18,3 +18,4 @@ title: ""
 * [Ultimate AWS Certified Cloud Practitioner - 2023 (Udemy)](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/c79092646ce210dbcd140154826396ab6f6a2b30/_certificates/UC-6a37ff5a-64c8-4090-9c6f-8bb65476d227.pdf)
 * [AWS SageMaker Complete Course PyTorch & Tensorflow NLP-2022 (Udemy)](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/83b5286e707e4a1ae504255f4ec0c6fdf776c703/_certificates/UC-c0ed7680-a1de-4fe0-baf0-c208f55550e1.pdf)
 * [The Complete Tableau Bootcamp for Data Visualization](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/e5629cd528e43ff3432241daf20d082e442813b3/_certificates/UC-39ad57e9-0c77-44c6-bd03-ee1bafc358a4.pdf)
+* [SQL - MySQL for Data Analytics and Business Intelligence](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/c13b34399eee3aabcf6d7a9a765dccb1424d6971/_certificates/UC-41a9bf97-4756-49bb-92d1-548d049f308b.pdf)
