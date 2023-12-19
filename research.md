@@ -25,6 +25,8 @@ Please refer to my [Google Scholar](https://scholar.google.com/citations?user=xj
 
 
 ### Projects 💻
+- [Guided Conditional Image Generation with Conditional Flow Matching](https://github.com/Anshumaan-Chauhan02/Guided-Flow-Matching)
+- [Patient Tracker System](https://github.com/Anshumaan-Chauhan02/PatientTrackerSystem)
 - [Visual Story Generation](https://github.com/Anshumaan-Chauhan02/VST/tree/main) 
 - [Recipe Infusion](https://github.com/Anshumaan-Chauhan02/Recipe-Infusion) 
 - [VisionNet](https://github.com/Anshumaan-Chauhan02/VisionNet) 
