@@ -8,14 +8,11 @@ I am currently interested and researching on the following topics pertaining to 
 * Natural Language Processing
    * Multi-Modality Generation conditioned on Text
    * Efficient Model Training - stuff related to QLoRA, Adapters and Bit-Quantization
-   * Easy Large Model Deployment for Public Inference
 * Computer Vision
-   * Visual Transformers
-   * Image Generation
-   * Scene/Image Transformation conditioned on Text   
+   * Image Generation Conditioned on Text  
 
 ### Publications 📝
-* Constraint-Based Multi-organ Identification in CT Images using Unsupervised Learning
+* [Constraint-Based Multi-organ Identification in CT Images using Unsupervised Learning](https://ieeexplore.ieee.org/document/10398918)
 * [Toward Generating System Architecture and Formal Functional Description in the Architecture Analysis & Design Language (AADL) with Structured Natural Language](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2022/86212/V002T02A077/1150294)
 * [LPRNet: A Novel Approach for Novelty Detection in Networking Packets](https://thesai.org/Publications/ViewPaper?Volume=13&Issue=2&Code=IJACSA&SerialNo=13)
 * [Performance Analysis of Machine Learning Algorithms and Feature Extraction Methods for Sentiment Analysis](https://ieeexplore.ieee.org/document/9633882)
