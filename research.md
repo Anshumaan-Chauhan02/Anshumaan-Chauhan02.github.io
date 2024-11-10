@@ -14,8 +14,6 @@ I am currently interested and researching on the following topics pertaining to 
 
 ### Publications 📝
 
----
-
 #### [Constraint-Based Multi-organ Identification in CT Images using Unsupervised Learning](https://ieeexplore.ieee.org/document/10398918)
 
 Accurate organ identification and segmentation in whole-body Computed Tomography (CT) images are important for the localization of diseases and treatment planning. Manual organ identification and segmentation requires human intervention/expertise and is tedious. Many automated approaches based on supervised machine learning are being used to accomplish scalability, but it requires a large amount of training data that is not easy to access in the case of medical images due to the expense of acquisition and data anonymization. We present a fully automated unsupervised knowledge-based workflow for CT organ segmentation and localization. The workflow consists of pre-processing with ImageJ, followed by segmentation using Density-Based Spatial Clustering of Applications with Noise (DBSCAN), morphological closing operations for post-processing, and a knowledge-based analysis to identify organs. The knowledge-based framework utilizes constraint-based area check (CBAC), conditional localized overlap check, and multi-scale template matching (MTM) using a single template to rule out infeasible segmentations and recognize the organs precisely. The model was tested on an in-house whole-body CT scans dataset comprising 150 patients. The proposed methodology yielded significantly high average Dice Coefficients of 0.784 and 0.883 for kidneys and lungs, respectively, against semi-manually segmented organs by an expert.
