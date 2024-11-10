@@ -5,8 +5,11 @@ title: ""
 
 ### Degrees 🎓
 
-* B.E. in Computer Science - BITS Pilani Dubai Campus (2018-22) 
+* B.E. in Computer Science - BITS Pilani Dubai Campus (2018-2022) 
 * M.S. in Computer Science - University of Massachusetts (2022-2024)
+
+### Relevant Courses
+Probability and Statistics, Object Oriented Programming, Data Structures and ALgorithms, Database Systems, Machine Learning, Artificial Intelligence, Algorithms for Data Science, Systems for Data Science, Natural Language Processing, Software Engineering, Advanced Topics in Information Retrieval
 
 ### Certificates 📜
 * [Machine Learning (Coursera)](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/9e691885bfa851dbeadeec332b4a158bafc78628/_certificates/Coursera%20VFDU7GX5CAUE%20-%20Machine%20Learning.pdf)
