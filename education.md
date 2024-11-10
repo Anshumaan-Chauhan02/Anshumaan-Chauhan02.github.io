@@ -9,7 +9,7 @@ title: ""
 * M.S. in Computer Science - University of Massachusetts (2022-2024)
 
 ### Relevant Courses
-Probability and Statistics, Object Oriented Programming, Data Structures and ALgorithms, Database Systems, Machine Learning, Artificial Intelligence, Algorithms for Data Science, Systems for Data Science, Natural Language Processing, Software Engineering, Advanced Topics in Information Retrieval
+Probability and Statistics, Object Oriented Programming, Data Structures and Algorithms, Database Systems, Machine Learning, Artificial Intelligence, Algorithms for Data Science, Systems for Data Science, Natural Language Processing, Software Engineering, Advanced Topics in Information Retrieval
 
 ### Certificates 📜
 * [Machine Learning (Coursera)](https://github.com/Anshumaan-Chauhan02/Anshumaan-Chauhan02.github.io/blob/9e691885bfa851dbeadeec332b4a158bafc78628/_certificates/Coursera%20VFDU7GX5CAUE%20-%20Machine%20Learning.pdf)
